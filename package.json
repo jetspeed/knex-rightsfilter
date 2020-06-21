@@ -1,0 +1,27 @@
+{
+  "name": "jetspeed-knex-rightsfilter",
+  "version": "1.0.0",
+  "description": "knex rights filter",
+  "main": "lib/knex-rightsfilter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jetspeed/knex-rightsfilter.git"
+  },
+  "keywords": [
+    "knex",
+    "rights",
+    "filter"
+  ],
+  "author": "jetspeed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jetspeed/knex-rightsfilter/issues"
+  },
+  "homepage": "https://github.com/jetspeed/knex-rightsfilter#readme",
+  "dependencies": {
+    "knex": ""
+  }
+}
